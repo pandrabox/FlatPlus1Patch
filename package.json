@@ -1,6 +1,6 @@
 {
   "name": "com.github.pandrabox.flatplus1patch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "displayName": "FlatPlus1Patch",
   "author": {
     "name": "pandra"
@@ -10,6 +10,9 @@
   "vpmDependencies": {
     "com.vrchat.avatars": ">=3.4.0",
     "nadena.dev.modular-avatar": ">=1.9.0"
+  },
+  "legacyFolders": {
+    "Assets\\Pan\\FlatEmo\\res\\NDMF\\FlatPlusFix1": ""
   },
   "license": "MIT"
 }
